@@ -1,3 +1,1 @@
-# HTML 5 Responsive Coming Soon Under Construction Template
-
-Wedding Website for Raghul and Geetanjali
+# Wedding Website for Vini and Erus
