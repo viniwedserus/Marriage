@@ -230,7 +230,7 @@ body {
 .bridegroom {
     background: url("../img/section2/he2.jpg");
     background-repeat: no-repeat;
-    background-size: 80%;
+    background-size: 85%;
     background-position: center;
     margin: 0 auto;
     text-align: center;
@@ -258,9 +258,9 @@ cursive !important;
 }
 
 .bride {
-    background: url("../img/section2/she.JPG");
+    background: url("../img/section2/she.jpg");
     background-repeat: no-repeat;
-    background-size: 85%;
+    background-size: 125%;
     background-position: center;
     margin: 0 auto;
     text-align: center;
